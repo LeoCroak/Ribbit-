@@ -1,4 +1,4 @@
-// original code found on https://github.com/LeoCroak/Random-things/blob/main/countdown.cs
+// original code found on https://github.com/LeoCroak/Ribbit-
 using System;
 using System.Threading;
 

@@ -1,4 +1,4 @@
-#original code found on https://github.com/LeoCroak/Random-things/blob/main/circumference.py
+#original code found on https://github.com/LeoCroak/Ribbit-
 import math
 
 diameter = input("Enter your diameter:")
