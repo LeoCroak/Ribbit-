@@ -1,4 +1,4 @@
--- orginal code found on https://github.com/LeoCroak/Ribbit-
+-- original code found on https://github.com/LeoCroak/Ribbit-
 function love.load()
     player = {}
     player.x = 50
